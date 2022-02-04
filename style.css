@@ -43,3 +43,76 @@ li{
 .start p{
     font-size: 1.3rem;
 }
+.Aboutme{
+    background-color: #03001e;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+}
+.Aboutmecards{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.Aboutme h1{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 2rem;
+    
+    
+}
+.Aboutmecards .card{
+
+    display: inline-block;
+    width: 250px;
+    height: 120px;
+    border-radius: 10px;
+    padding: 16px;
+    text-align: center;
+    background-color: #26243b;
+    margin:10px;  
+   
+}
+#first:hover{
+    
+        box-shadow: 0 0 31px #4bc0c8; 
+}
+#second:hover{
+    box-shadow: 0 0 31px #c779d0; 
+}
+#third:hover{
+    box-shadow: 0 0 31px #e4db61; 
+}
+.Aboutme #first h4{
+    background: linear-gradient(45deg, #a6ffcb, #1fa2ff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1.5rem;
+}
+.Aboutme #second h4{
+    background: linear-gradient(45deg, #c779d0, #6d1fff71);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1.5rem;
+}
+.Aboutme #third h4{
+    background: linear-gradient(45deg, #e4db61, #5fd3c065);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1.5rem;
+}
+
+.Aboutme p{
+    color: white;
+    font-family: sans-serif;
+    
+}
