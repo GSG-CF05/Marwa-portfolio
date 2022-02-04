@@ -119,12 +119,14 @@ li{
 .skill {
     height: 500px;
     background-color: #03001e;
+    
   
 }
 .skill h1{
     text-align: center;
     color: white;
     font-size: 2rem;
+    padding-top: 50px;
 }
 
 .skill figure{
@@ -138,6 +140,7 @@ li{
 .contact{
     height: 500px;
     background-color: #03001e;
+    padding-top: 80px;
     
 
    
