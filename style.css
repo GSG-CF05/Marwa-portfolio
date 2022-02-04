@@ -135,3 +135,62 @@ li{
 
 
 }
+.contact{
+    height: 500px;
+    background-color: #03001e;
+    
+
+   
+}
+.contact h1{
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+}
+.contactform{
+    margin: auto;
+    max-width: 600px;
+
+}
+.contactform textarea{
+    height: 70px;
+}
+.text{
+    display: block;
+    width: 100%;
+    margin: 18px 0;
+    padding: 20px 40px;
+    border-radius: 5px;
+    border-style: none;
+    outline: none;
+}
+.btn{
+    background-color: #26243b;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 40px;
+    padding: 1.3rem;
+    color: #ffffff;
+    border: 5px solid black;
+    border-radius: 45px;
+    border-color: #043e68;
+}
+.btn:hover{
+    background-color: #c779d0;
+    box-shadow: 0px 5px 10px #c779d07c; 
+    border: none;
+}
+
+footer{
+    height: fit-content;
+    background-color: #26243b;
+    color:rgba(255, 255, 255, 0.623);
+    text-align: center;
+}
+.link a{
+    text-decoration: none;
+    color:rgba(255, 255, 255, 0.623);
+    font-size: 1rem;
+    
+}
