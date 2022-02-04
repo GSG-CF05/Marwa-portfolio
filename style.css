@@ -116,3 +116,22 @@ li{
     font-family: sans-serif;
     
 }
+.skill {
+    height: 500px;
+    background-color: #03001e;
+  
+}
+.skill h1{
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+}
+
+.skill figure{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 90px;
+
+
+}
